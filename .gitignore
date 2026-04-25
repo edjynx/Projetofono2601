@@ -1,0 +1,21 @@
+# Dependências de ambiente
+node_modules/
+.agents/
+.vscode/
+.idea/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Logs e builds
+*.log
+dist/
+build/
+
+# Segredos
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
